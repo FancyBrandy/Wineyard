@@ -11,5 +11,5 @@ the decision where to go and what to do ( use a  pipe). Reading the information 
 
 If there is not enough registered workers (less than the limit), the leader of the workers flight randomly select workers from the morning on the 
 plot candidates. (Some workers may go without registration to the vineyards central office  - hoping that maybe there will be some working possibilities...) 
-After arriving to the plot (e.g. to  Silky Land) the leader of the workers flight should send a signal to the central office (parent) how many workers were delivered. 
+After arriving to the plot (e.g. to  Silky Land) the leader of the workers flight will send a signal to the central office (parent) how many workers were delivered. 
 The office also writes out this data (the number) on the screen.
